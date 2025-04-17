@@ -126,38 +126,50 @@
 
 7.4.  CloudFormation Essentials
 
+## 8. Management Tools
 
-
-
-
-
-
-
-
-8. Management Tools
 8.1. An Overview of Management Tools
+
 8.2. Understanding CloudWatch Basics
+
 8.3. Utilizing CloudWatch Metrics and Alarms
+
 8.4. Exploring SNS
+
 8.5. Learning about CloudTrail Basics
+
 8.6. Exploring the AWS Health Dashboard
+
 8.7. Reviewing Cost Explorer
+
 8.8. AWS Trusted Advisor
+
 8.9. Lambda Basics
+
 8.10. What We Covered: Management Tools
+
 8.11. Using CloudWatch for Resource Monitoring
+
 8.12. Create a Lambda Function Using the AWS Management Console
+
 8.13. Create and Subscribe to an AWS SNS Topic
+
 8.14. Management Essentials
 
-9. Security Tools
+## 9. Security Tools
+
 9.1. An Overview of Security Tools
+
 9.2. Utilizing GuardDuty
+
 9.3. Understand AWS Security Hub 
+
 9.4. Security Essentials
 
-10. Conclusion
+## 10. Conclusion
+
 10.1. What We Covered in This Course?
+
 10.2. Where Do You Go from Here?
 
 
