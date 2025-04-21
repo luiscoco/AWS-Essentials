@@ -4,7 +4,7 @@
 
 ### 1.1. An Overview of AWS Account and the Features of Free Tier
 
-### 1.2. Learning How to Create an AWS Account and Navigating through the Console
+### 1.2. How to Create an AWS Account and Navigating through the Console
 
 ### 1.3. Leveraging Billing Alerts
 
